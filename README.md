@@ -15,6 +15,7 @@ Starting in Fall 2019, both COMP 202 and COMP 208 switched from Java to Python. 
 
 Here are some frequently asked questions (FAQ) about the programming prerequisite:
   Q: I took COMP 208 (before Fall 2019) and so I know some C but not Java (nor Python). What am I missing?
+  
   A: If you know some C, then you are in a strong position to learn Java because you are very familiar with types already. However, you don't yet know about objects and classes. We will learn about them, and how to use them in Java, during the first couple of weeks.
 
   Q: I took a programming course prior to coming to McGill in which we used one of Python / Matlab / Javascript / R. What am I missing?
