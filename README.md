@@ -87,7 +87,9 @@ Your  final grade in the course is calculated by taking the maximum of the follo
 - Assignments: 40%
 - Quizzes: 10%
 - Final Examination: 50%
+
 OR
+
 - Assignments: 40%
 - Final Examination: 60%
 
@@ -133,3 +135,42 @@ The planned dates and topics covered by the quizzes are listed below.
 4.  Friday Mar. 20 (recursion, binary search, merger sort, quick sort, and trees)
 5.  Friday Apr. 3 (heaps, hashing, and graphs)
 
+### 5.3 Final Exam
+The Final Exam will be held during Final Examination Period. It will be closed book. No crib sheet or electronic devices are permitted. No calculators. No cell phones. The exact format of the final exam will be announced in class and on myCourses.
+Failing grade policy: You must get a score of at least 50% on the  nal exam to pass the course. If your score is below this threshold, you will automatically receive  an F grade for the course, regardless of your scores on the assignments and quizzes.
+
+## 6. Policies on Academic Integrity
+Official policy:
+"McGill University values academic integrity. Therefore all students must understand the meaning and consequences of cheating, plagiarism, and other academic offenses under the Code of Student Conduct and Disciplinary Procedures (see www.mcgill.ca/integrity/ for more information)."
+
+### 6.1 Plagiarism Policy and Assignments
+You must include your name and McGill ID number at the top of each source code file that you implement and submit. By doing so, you are certifying that the program or module is entirely your own, and represents only the result of your own efforts. Work submitted for this course must represent your own efforts.
+Assignments must be done individually; you must not work in groups. Do not rely on friends or tutors to do your work for you. You must not copy any other person's work in any manner (electronically or otherwise), even if this work is in the public domain or you have permission from its author to use it and/or modify it in your own work (obviously, this prohibition does not apply to source code supplied by instructors explicitly for this purpose). Furthermore, you must not give a copy of your work to any other person. 
+The plagiarism policy is not meant to discourage interaction or discussion among students. You are encouraged to discuss assignment questions with instructors, TAs/Mentors, and your fellow students. There is no better way to learn than through discussion with your peers. You are also encouraged to help each other out with debugging problems, especially with the basic mechanics of debugging such as how to make the best use of an IDE. Finally, you are highly encouraged you to pose questions on Piazza and to answer each other's questions there too.
+However, there is a difference between discussing ideas and working in groups or copying someone else's solution. Your discussion should never go so far that you are revealing the solutions to each other. Sharing code is absolutely forbidden. The solution code that you submit must be your work. A good rule of thumb is that when you discuss assignments with your fellow students, you should not leave the discussion with written notes.  Also, when you write your solution to an assignment,
+you should do it on your own.
+
+### 6.2 Plagiarism and text matching software
+The solutions that you submit must be your own work.  We will run software for detecting similarities between submissions, and we will conduct a manual code review in cases where similarity between two solution is suspiciously high. You may also be asked to present and explain your assignment submissions to an instructor at any time.
+When the instructor suspects that plagiarism has occurred, the instructor will report the case to the Disciplinary Officer in the student's Faculty (Science, Arts, Engineering, etc).  For more details on the process, see Section III Articles A.37 (p.  10) and A.48 (p.  13) of the Code of Student Conduct and Disciplinary Procedures: https://www.mcgill.ca/secretariat/files/secretariat/code_of_student_conduct_and_disciplinary_procedures.pdf
+
+### 6.3 Posting assignment solutions on a website
+We encourage you to use tools like github for version control systems. However, you must not share your assignment solutions by posting them on a public space such as your github account. This rule extends beyond the duration of the course.  The reason for the rule is that instructors
+occasionally recycle assignments from previous years, and if the old versions are easily accessible (github has a search feature) then this leads to plagiarism by others.
+
+### 6.4 Cheating on quizzes
+The quizzes will be online and we will let you do them with a 12 hour time interval, and wherever you like (from home, library, Trottier labs, etc). We will use the honour system here, namely you must do the quizzes entirely on your own just as if you were writing an exam in class.  Any communication between two students about a quiz before the 12 hour time limit for finishing the quiz is complete is cheating and is absolutely forbidden.
+
+## 7 McGill language policy
+In accord with McGill University's Charter of Students' Rights, students in this course have the right to submit in English or in French any written work that is to be graded. https://www.mcgill.ca/study/2017-2018/university_regulations_and_resources/undergraduate/gi_lang_policy
+
+## 8 Required Software
+You will use the Java compiler and the Java Virtual Machine (JVM) to compile and run the programs you are required to write for the assignments. The Java compiler and  the JVM are included in a larger software package called the Java Development Kit (JDK). You can use any plain-text editor of your choice to write your programs, and  then use the tools included with the JDK to compile and run them. For this course, we recommend Eclipse (http://www.eclipse.org/), a more powerful IDE which can assist you in writing your code. All instructors and teaching assistants will provide support for Eclipse. The JDK is installed on the computers in the SOCS laboratory, as is Eclipse. You are encouraged to install the JDK and Eclipse (or the IDE of your choice) on your own machine so you do not have to depend on the SOCS computer laboratory facilities to do your work. Installing any of these is fairly straightforward.  If you need help, you can consult a TA during office hours.
+
+Required:
+- The JDK. Windows users: You may download the JDK installation program from the following web site: http://www.oracle.com/technetwork/java/javase/downloads. You should install the JDK before any IDE. Mac users:  JDK 6.0,  7.0,  or 8.0 is installed by default on most Mac computers.  t is
+available as a Mac OS software update. GNU/Linux users: A JDK is available in the software repositories of most of the major GNU/Linux distributions like Ubuntu or Fedora; you can install it through your package manager.
+
+Recommended:
+- An IDE that you can use to write and run your programs. More powerful IDEs such as Eclipse or IntelliJ offer fantastic benefits such as automatically checking your
+code for errors and built-in debugger. This can be a great help when writing more complex programs. Eclipse: http://www.eclipse.org/downloads/. IntelliJ IDEA: https://www.jetbrains.com/idea.
