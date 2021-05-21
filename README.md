@@ -106,5 +106,30 @@ that you complete all assignments, as this is the best way to learn the material
 You will be given approximately two weeks to complete each assignment. The deadline will be specified on the assignment PDF. To receive full grades, assignments (as well as all other course work) MUST represent your own personal efforts (see the section on Plagiarism Policy and Assignments below). If you do not do an assignment, then you will receive a grade of 0 for it. No exceptions.
 
 **Assignment Submissions**
+
 Assignment submission will always take place through myCourses. Every student is responsible for verifying that their submissions are successful. If you believe the content of your submission is different from what you have submitted, you must e-mail your instructor within 4 days of the assignment deadline in question to provide evidence of your correct submission. You will be able to see your assignment marks on myCourses. It is your responsibility to check that the marks are correct and to notify your instructor of any errors or missing marks.
+
+**Late Policy**
+
+Unforeseen events may arise that prevent you from submitting an assignment on time. For example, you might be sick for several days in the week before the assignment is due. Our standard late policy is that you may submit up to two days after the deadline, but with a small penalty; Late assignments will be deducted 10% each day or fraction thereof for which they are late, including weekend days and holidays; that is, assignments that are between 0 and 24 hours late will be deducted 10 points, assignments that are between 24 and 48 hours late will be deducted 20 points. We are willing to waive this penalty in cases of illness or other unforeseen personal circumstances. However, you must make a formal request. See email policy.
+Examples of invalid requests are:
+
+- Your laptop broke or was stolen.  This is not a valid excuse. You should be using an automatic backup system e.g. Dropbox, google drive, etc.
+- You have midterm exams, a job interview, a family wedding, etc. These are invalid because we give you two weeks. You need to plan accordingly.
+
+Late submissions beyond the two day deadline are not allowed under any circumstances. If you are so far behind on your work that you cannot meet the late deadline,  then this is a problem that extends beyond COMP 250 and you should seen an academic advisor and possibly consider a late
+withdrawl from one of your courses. The instructors reserve the right to modify the lateness policy for a particular assignment; any such modifications will be clearly indicated at the beginning of the relevant assignment specifications. Plan appropriately and do NOT submit to myCourses only minutes before the
+assignment deadline. Requests for waiving the late penalty because the system was busy or your machine too slow will not be accepted. Take care, programming assignments are notoriously time-consuming and individual exceptions to the lateness policy will not be granted without appropriate justification submitted in writing and supported by documentary evidence
+
+### 5.2 Online Quizzes
+We will have five quizzes throughout the semester, each worth 2% of your final course grade. The quizzes will be combination of multiple choice, true/false, etc. These quizzes will be done online with myCourses. We strongly suggest that you do them in a location where the internet connection is reliable. The quizzes are designed to take less than 40 minutes.  We give you a full hour, and this is to accommodate students registered with OSD who need more time for exams. You can do the quiz anytime during the day from 8 AM to 8 PM, and from wherever you wish. 
+
+No crib sheets, or web access, etc is allowed, and so the conditions of the quiz are the same as the final exam. The quizzes must be done entirely on your own.  See policy below about "Cheating on quizzes". It is possible that you will not be available to write all of the quizzes. Therefore, we are making the quizzes optional in the following sense. You will receive a grade of 0/2 if you cannot write a quiz. However, when we calculate your final course grade, if your final exam percentage grade is greater than your quiz percentage grade including quizzes that you missed, then we will automatically make your final exam worth 60% of your final grade instead of 50%, and your quizzes will be worth 0%.
+
+The planned dates and topics covered by the quizzes are listed below.
+1.  Friday Jan 31 (Java syntax, primitive data types, arrays, and OOD basics)
+2.  Friday Feb. 14 (OOD (polymorphism and type conversion), Array lists Linked lists, and quadratic sorting)
+3.  Friday Feb. 28 (stack/queue, OOD (interfaces), and induction)
+4.  Friday Mar. 20 (recursion, binary search, merger sort, quick sort, and trees)
+5.  Friday Apr. 3 (heaps, hashing, and graphs)
 
