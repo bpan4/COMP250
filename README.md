@@ -16,12 +16,15 @@ Starting in Fall 2019, both COMP 202 and COMP 208 switched from Java to Python. 
 Here are some frequently asked questions (FAQ) about the programming prerequisite:
 
 Q: I took COMP 208 (before Fall 2019) and so I know some C but not Java (nor Python). What am I missing?
+
 A: If you know some C, then you are in a strong position to learn Java because you are very familiar with types already. However, you don't yet know about objects and classes. We will learn about them, and how to use them in Java, during the first couple of weeks.
 
 Q: I took a programming course prior to coming to McGill in which we used one of Python / Matlab / Javascript / R. What am I missing?
+
 A: As described above, we will be spending some time together learning Java. The assumption we will be making is that you have a certain level of experience in Python. Be sure that you are comfortable with the basics elements of programming from COMP 202, in particular, variables, expressions, and assignments, conditional statements (if-then-else), loops (while, for), methods/functions, data structures such as list/arrays and strings, input/output from a keyboard and to a console and from/to a file. If you are not comfortable with these basics, then you should take COMP 202 or 204 or 208 this semester, instead of COMP 250.
 
 Q: I have not taken a programming course.  Instead I learned programming on my own, e.g. online course. How much programming experience do I need?
+
 A: You should have at least 50 hours experience programming in whatever language you do know. That is roughly the minimum amount of experience that a student who has taken COMP 202/208/etc already has. If you don't have that level of experience, then you should not take COMP 250 this semester, and instead you should take an introduction to programming course, namely COMP 202 or 204 or 208.
   
 ###### 2.2 Math Prerequisites
